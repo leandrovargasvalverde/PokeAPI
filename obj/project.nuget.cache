@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MfY2bds86+Q3np/PVOHdSpy91HYC0YchpLEruCgQh87HiMR0+xavXd/hn4Uskl0gNAWXjycWPxv6L2gWZ1T4kQ==",
+  "dgSpecHash": "yRaAQX+EPd6W+QomOf3bQfyePXsAKCYBWkODaXerJI2fKTsps7JIVkqLZhSAIIJ392RcFALpDtQajcQ5WUGlOQ==",
   "success": true,
-  "projectFilePath": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\Parcial II\\PokemonMVC\\PokemonMVC.csproj",
+  "projectFilePath": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\II Parcial Progra V-Leandro Vargas V\\PokemonMVC\\PokeAPI\\PokemonMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEANDRO\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\LEANDRO\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,7 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
-using PokemonMVC.Models;
-using System.Collections;
 using System.Diagnostics;
 using m = PokemonMVC.Models;
 

@@ -8989,11 +8989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\Parcial II\\PokemonMVC\\PokemonMVC.csproj",
+      "projectUniqueName": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\II Parcial Progra V-Leandro Vargas V\\PokemonMVC\\PokeAPI\\PokemonMVC.csproj",
       "projectName": "PokemonMVC",
-      "projectPath": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\Parcial II\\PokemonMVC\\PokemonMVC.csproj",
+      "projectPath": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\II Parcial Progra V-Leandro Vargas V\\PokemonMVC\\PokeAPI\\PokemonMVC.csproj",
       "packagesPath": "C:\\Users\\LEANDRO\\.nuget\\packages\\",
-      "outputPath": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\Parcial II\\PokemonMVC\\obj\\",
+      "outputPath": "D:\\LEANDRO\\Trabajos de la U\\Programación de Computadoras V\\II Parcial Progra V-Leandro Vargas V\\PokemonMVC\\PokeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LEANDRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
